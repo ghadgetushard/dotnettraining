@@ -1,0 +1,14 @@
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\bin\Debug\net8.0\MyconsoleApp.exe
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\bin\Debug\net8.0\MyconsoleApp.deps.json
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\bin\Debug\net8.0\MyconsoleApp.runtimeconfig.json
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\bin\Debug\net8.0\MyconsoleApp.dll
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\bin\Debug\net8.0\MyconsoleApp.pdb
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.AssemblyInfoInputs.cache
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.AssemblyInfo.cs
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.dll
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\obj\Debug\net8.0\refint\MyconsoleApp.dll
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.pdb
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.genruntimeconfig.cache
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day1\test\MyconsoleApp\obj\Debug\net8.0\ref\MyconsoleApp.dll

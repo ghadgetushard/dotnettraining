@@ -1,0 +1,11 @@
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\bin\Debug\net9.0\CatalogLib.deps.json
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\bin\Debug\net9.0\CatalogLib.dll
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\bin\Debug\net9.0\CatalogLib.pdb
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\obj\Debug\net9.0\CatalogLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\obj\Debug\net9.0\CatalogLib.AssemblyInfoInputs.cache
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\obj\Debug\net9.0\CatalogLib.AssemblyInfo.cs
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\obj\Debug\net9.0\CatalogLib.csproj.CoreCompileInputs.cache
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\obj\Debug\net9.0\CatalogLib.dll
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\obj\Debug\net9.0\refint\CatalogLib.dll
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\obj\Debug\net9.0\CatalogLib.pdb
+C:\Users\tushar.ghadge\Documents\Tushar\workspace\Dotnet Training\Day5\test\ECommerceSolution\CatalogLib\obj\Debug\net9.0\ref\CatalogLib.dll

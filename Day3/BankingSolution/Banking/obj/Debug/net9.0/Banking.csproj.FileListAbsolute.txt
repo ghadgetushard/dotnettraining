@@ -1,0 +1,11 @@
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\bin\Debug\net9.0\Banking.deps.json
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\bin\Debug\net9.0\Banking.dll
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\bin\Debug\net9.0\Banking.pdb
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\obj\Debug\net9.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\obj\Debug\net9.0\Banking.AssemblyInfoInputs.cache
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\obj\Debug\net9.0\Banking.AssemblyInfo.cs
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\obj\Debug\net9.0\Banking.csproj.CoreCompileInputs.cache
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\obj\Debug\net9.0\Banking.dll
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\obj\Debug\net9.0\refint\Banking.dll
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\obj\Debug\net9.0\Banking.pdb
+C:\Users\tushar.ghadge\Documents\tushar\workspace\Dotnet Training\day 3\BankingSolution\Banking\obj\Debug\net9.0\ref\Banking.dll
