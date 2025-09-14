@@ -2,33 +2,45 @@
 
 public class Account
 {
-    // private decimal balance;
-
-    // public decimal Balance
-    // {
-    //     get { return balance; }
-
-    //     private set { balance = value; }
-    // }
-
-    // Auto Property : always public
-    public decimal Balance { get; set; }
-
-    public void Withdraw(decimal amount)
+    public decimal Balance;
+    public void withdraw(decimal amount)
     {
-        // Logic to Withdraw money
+        // Implementation for withdrawing amount from the account
         if (amount > 0 && amount <= Balance)
         {
-            Balance -= amount;
+            decimal newBalance = Balance - (decimal)amount;
+            if (newBalance < 10000)
+            {
+                underBalance(); //trigger event
+            }
+            Balance = newBalance;
+            Console.WriteLine($"Withdrew {amount}. New balance is {Balance}");
+        }
+        // if (amount > Balance)
+        // {
+        //     Console.WriteLine("Insufficient funds");
+        // }
+        else
+        {
+            Balance -= (decimal)amount;
+            Console.WriteLine($"Withdrew {amount}. New balance is {Balance}");
         }
     }
 
-    public void Deposit(decimal amount)
+    public void deposit(decimal amount)
     {
-        // Logic to Deposit money
-        if (amount > 0)
-        {
-            Balance += amount;
-        }
+        // Implementation for depositing amount into the account
+        Balance += (decimal)amount;
+        Console.WriteLine($"Deposited {amount}. New balance is {Balance}");
     }
+
+    public decimal getBalance()
+    {
+        return Balance;
+
+    }
+
+    public event AccountOperation underBalance;
+
+
 }
